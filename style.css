@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;}
+p{
+padding-top: 20px;
+width: 60%;
+margin: auto;
+display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;
+justify-content: space-between;}
+.phone{width: 70%;}
+.tel{width: 100%;padding: 10px 15px;}
+.submit{width: 30%;background: #00b372;color: white;border: none;}
+.ajax-loader{width: 0;}
